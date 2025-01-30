@@ -9,7 +9,7 @@ Java Full-Stack Developer
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [sajid1852002@gmail.com](mailto:sajid1852002@gmail.com)
 *   🚀  I'm currently working on [Online BookStore](http://github.com/Sajid18May/FullStack-BookStore.git)
-*   🧠  I'm learning Angular , Spring Security, JWT
+*   🧠  I'm learning Flutter
    ### Skills
   
 <p align="left">
