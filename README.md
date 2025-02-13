@@ -39,6 +39,7 @@ Java Full-Stack Developer
                     
 ### Badges
 <b>My GitHub Stats</b>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sajid18May&theme=tokyonight)](https://git.io/streak-stats)
 <br/><br/>
 ![Sajid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sajid18May&show_icons=true&theme=tokyonight)
 <br/><br/><br/>
